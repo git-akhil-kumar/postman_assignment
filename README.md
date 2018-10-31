@@ -25,7 +25,7 @@
 
 
 > Note:-
-	> If API-KEY will Expired so make a new API-KEY and paste into search function  of app.js (line 81) file.  
+	> If API-KEY will Expired make a new API-KEY and paste into search function  of app.js (line 81) file.  
 
 > Tools and Technology Used:-
 	> HTML, CSS, JavaScript, NetBeans ,GlassFish Server.
