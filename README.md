@@ -1,7 +1,7 @@
 > Youtube search engine
 
 > System Requirements to run the project :-
-	(you have to run this program in a webserver ,I have used NetBeans wiht GlassFish Server plugin)
+	(you have to run this program in a webserver (like GlassFish Server plugin)
  
 	> NetBeans with GlassFish Server plugin 
 		> Download link :- https://netbeans.org/downloads/start.html?platform=windows&lang=en&option=all
