@@ -18,8 +18,8 @@
 		> Right-click the GlassFish Server instance and select Start.
 
 	> Run the project 
-	> Search any video name in text-box
-	> To do Sort you can select option from drop down menu
+	> Search any video name in Search-box
+	> To do Sort you can select option from drop down menu bar
 			- By Title(Ascending)
 			- By Published Date(Descending)
 
